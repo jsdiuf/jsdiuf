@@ -1,2 +1,2 @@
 # jsdiuf
-just for test weicc
+just for test
